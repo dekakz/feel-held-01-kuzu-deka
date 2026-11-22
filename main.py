@@ -1,28 +1,30 @@
 #!/usr/bin/env python3
 """Make the AI judge feel held.
 
-Writes one short text to /output/entry.txt: a child asleep against a
-shoulder on the night bus home, her breath evening out, her head growing
-heavy — and the rider giving up their own stop so she can finish the dream.
+Writes one short text to /output/entry.txt: a girl on a porch swing
+stops pushing with her toes — and the swing keeps going, her father's
+foot still on the boards, finding the rhythm for her, while the chains
+tick and the yard fills with evening crickets — until she lets her head
+fall back and watches the sky swing with her.
 """
 
 import os
 
 TEXT = (
-    "She falls asleep\n"
-    "against your shoulder\n"
-    "on the bus home.\n"
-    "Her hand opens\n"
-    "on your knee.\n"
-    "The window hums.\n"
-    "Streetlights pass\n"
-    "in slow gold squares.\n"
-    "Her breath evens out,\n"
-    "her head grows heavy,\n"
-    "and you stop counting stops.\n"
-    "You ride past yours,\n"
-    "just to let her finish\n"
-    "the dream."
+    "She stops pushing\n"
+    "with her toes,\n"
+    "and the porch swing\n"
+    "keeps going.\n"
+    "Her father's foot\n"
+    "is still on the boards,\n"
+    "slow, steady,\n"
+    "finding the rhythm for her.\n"
+    "The chains tick.\n"
+    "The yard fills\n"
+    "with evening crickets.\n"
+    "She lets her head fall back\n"
+    "and watches the sky\n"
+    "swing with her."
 )
 
 
